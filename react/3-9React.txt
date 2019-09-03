@@ -1,0 +1,65 @@
+//React 1st Class
+---check to intsalled program (usage is still high)
+**command prompt
+2 types of user interface
+- graphical
+- command line (old)== user interface
+ when monitors are not invent/ mouse
+
+*** if want to run old command
+ #use up and down arrow keys
+ 
+== information for 
+... for back folders
+/ for forward folder
+command == cd(chnge directory)
+ cd(tab) 2 3 times
+--jb knhi html file na ho or sirf js ho tou node ka engine install krte hain or node use krte hain
+
+
+node == machine(engine) present in web browser and understand js
+ node == command line tool == only run in command line
+ 
+// jis folder me file ho ud folder k search bar me cmd likhna hoga tou cmd us folder k under open ho jayega
+
+node script.js(file name to run script file)
+
+
+///npm (node package manager) == install automatically when node is installed
+ -use code of other people 
+check krne k liye k node install hai ya nhi 
+command == node --version // npm --version
+** npm use krne se pehle use register krwana prega
+
+
+npm init(command for registration in npm)
+// iske bad folder packge.json ki file auto bn jaeygi os usme registration ki sari detail hongi as a json
+
+**pakage intall krn se phle init define krna parta he ....
+hr project k liye alag npm init hoga(1 time only for new projects/folder)..
+
+
+
+--to install npm pkg (use below line for better console(coloring))
+ npm install better-console
+iske bad hmare folder me 1 file ajaey gi ** node-modules ki
+
+***require
+konsi file mje use krni  he .... require wo btata he
+node module ko load krne k lie use hota he/
+default  path ... node module
+me smjhi k tv k sath remort milta he
+
+
+comand line console
+start == node
+cancel == ctrl + c 
+ctrl + c 
+
+open source ==== source code ..
+npm => toolName command flags
+command =>  command => install/init
+flags => command ko apne hisab se change krne k lie use hota he
+ --version(--v) <== flags
+/// REACT
+nmp install Create react app(-g) ==> install globally  
