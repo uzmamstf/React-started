@@ -63,3 +63,4 @@ flags => command ko apne hisab se change krne k lie use hota he
  --version(--v) <== flags
 /// REACT
 nmp install Create react app(-g) ==> install globally  
+agr koi class bnani hai tou pehle class keyword tha ab className
